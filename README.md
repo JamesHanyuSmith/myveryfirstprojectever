@@ -69,13 +69,5 @@
 
 
 <p> Here is your link to the </p>
-<a href=https://www.starwars.com/ >
-Official Star Wars Website </a>
+<a href=https://www.starwars.com/Official Star Wars Website </a>
 
-
-</body>
-
-
-
-
-</html>
