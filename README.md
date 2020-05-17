@@ -61,7 +61,7 @@
     <li> Han Solo </li>
     <li> Rogue One </li>
     <li> A New Hope </li>
-    <li>  Star Wars Christmas Special </li>
+    <li> Star Wars Christmas Special </li>
     <li> The Empire Strikes Back </li>
     <li> Return of the Jedi </li>
     <li> <b> The Resistance </b> </li>
