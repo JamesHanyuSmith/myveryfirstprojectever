@@ -3,7 +3,7 @@
 <h1> <u> A list of Star Wars Films </u> </h1>
 </head>
 
-responsiveimage={width:100%;height:auto;} 
+#responsiveimage={width:100%;height:auto;} 
 
 
 <body> 
