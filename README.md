@@ -68,6 +68,6 @@
           </ol>
 
 
-<p> Here is your link to the </p>
-<a href=https://www.starwars.com/Official Star Wars Website </a>
-
+<p> Here is your link to the
+<a href="https://www.starwars.com/">Official Star Wars Website </a>
+</p>
