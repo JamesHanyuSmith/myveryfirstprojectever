@@ -1,6 +1,3 @@
-<!Doctype html>
-
-<html>
 
 <head>
 <h1> <u> A list of Star Wars Films </u> </h1>
