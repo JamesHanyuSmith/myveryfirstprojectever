@@ -8,29 +8,29 @@
 <br>
 <h2> <u> The Skywalker Saga </u> </h2>
 <p>The entire Star Wars universe begins with the Skywalker Saga, as the skeletal structure. </p>
-     <table>
-
-          <tr>
-     <th> <b> <u> Prequel Trilogy </b> </u> </th>
-     <th>  <b> <u> Original Trilogy </b> </u> </th>
-     <th>  <b> <u> Sequel Trilogy </b> </u> </th>
-          </tr>
-          <tr>
-             <td>  The Phantom Menace </td>
-             <td>  A New Hope </td>
-             <td>  The Force Awakens </td>
-          </tr> 
-          <tr>
-             <td>  Attack of the Clones </td>
-             <td>  The Empire Strikes Back </td>
-             <td>  The Last Jedi </td>
-          </tr>
-          <tr>
-             <td>  Revenge of the Sith </td>
-             <td>  Return of the Jedi </td>
-             <td>  The Rise of Skywalker </td>
-          </tr>
-   </table>
+    
+    <table>
+     <tr>
+     <th> Prequel Trilogy</th>
+     <th> Original Trilogy</th>
+     <th> Sequel Trilogy</th>
+     </tr>
+     <tr>
+     <td> The Phantom Menace</td>
+     <td> A New Hope</td>
+     <td> The Force Awakens</td>
+     </tr> 
+     <tr>
+     <td> Attack of the Clones </td>
+     <td> The Empire Strikes Back </td>
+     <td> The Last Jedi </td>
+     </tr>
+     <tr>
+     <td> Revenge of the Sith</td>
+     <td> Return of the Jedi</td>
+     <td> The Rise of Skywalker</td>
+     </tr>
+    </table>
 
 
 <br>
