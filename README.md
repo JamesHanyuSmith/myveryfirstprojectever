@@ -1,14 +1,12 @@
 
 <head>
 <h1> <u> A list of Star Wars Films </u> </h1>
-</head>
-
-#responsiveimage={width:100%;height:auto;} 
+</head> 
 
 
 <body> 
 
-<img src="https://user-images.githubusercontent.com/65478779/82161949-23037b80-985e-11ea-8ab7-590359d74554.jpeg" id="responsiveimage"/>
+<img src="https://user-images.githubusercontent.com/65478779/82161949-23037b80-985e-11ea-8ab7-590359d74554.jpeg" id={width:100%;height:auto;}/>
 
 
 <br>
