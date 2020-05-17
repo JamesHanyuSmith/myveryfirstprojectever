@@ -68,7 +68,7 @@
           </ol>
 
 
-<p> <a name="#StarWarsWebsite"> Here is your link to the </a> </li>
+<p> <a name="#StarWarsWebsite"> Here is your link to the </a> </p>
 <br>
 <a href=https://www.starwars.com/ >
 Official Star Wars Website </a>
