@@ -1,37 +1,85 @@
-## Welcome to GitHub Pages
+<!Doctype html>
 
-You can use the [editor on GitHub](https://github.com/JamesHanyuSmith/myveryfirstprojectever/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<head>
+<h1> <u> A list of Star Wars Films </u> </h1>
+</head>
 
-### Markdown
+<body> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<br>
+<h2> <u> The Skywalker Saga </u> </h2>
+<p>The entire Star Wars universe begins with the Skywalker Saga, as the skeletal structure. </p>
+     <table>
 
-```markdown
-Syntax highlighted code block
+          <tr>
+     <th> <b> <u> Prequel Trilogy </b> </u> </th>
+     <th>  <b> <u> Original Trilogy </b> </u> </th>
+     <th>  <b> <u> Sequel Trilogy </b> </u> </th>
+          </tr>
+          <tr>
+             <td>  The Phantom Menace </td>
+             <td>  A New Hope </td>
+             <td>  The Force Awakens </td>
+          </tr> 
+          <tr>
+             <td>  Attack of the Clones </td>
+             <td>  The Empire Strikes Back </td>
+             <td>  The Last Jedi </td>
+          </tr>
+          <tr>
+             <td>  Revenge of the Sith </td>
+             <td>  Return of the Jedi </td>
+             <td>  The Rise of Skywalker </td>
+          </tr>
+   </table>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+<br>
+<h2> <u> Other Star Wars Films </u> </h2>
+<p> Here is a list of some of the other Star Wars films. The ones in bold are television series. Some are animated, some are live-action.
+</p>
 
-1. Numbered
-2. List
+<ul>
+    <li> <b>Star Wars: The Clone Wars  </b> </li>
+    <li>  <b> Star Wars: Rebels </b> </li>
+    <li> Han Solo </li>
+    <li> Rogue One </li>
+    <li> <b> Star Wars: The Resistance </b> </li>
+    <li>  Star Wars Christmas Special </li>
+</ul>
 
-**Bold** and _Italic_ and `Code` text
+<h2> <u> Chronological Order</u> </h2>
+<p> The following is a list of all of the Star Wars films in sequential order.  Some of the films will overlap, in the timeline. For example, "Star Wars: The Clone Wars" is a lengthy animated series, which spans 7 seasons. The story takes place right after "Attack of the Clones" and overlaps "Star Wars: Rebels", "Revenge of the Sith",  "Han Solo", and "Star Wars: Rebels". "Star Wars: Rebels" leads directly into "A New Hope".</p> 
+          <ol>
+    <li> The Phantom Menace </li>
+    <li> Attack of the Clones </li>
+    <li> <b>Star Wars: The Clone Wars  </b> </li>                         
+    <li> <b> Star Wars: Rebels </b> </li>
+    <li> Revenge of the Sith </li>
+    <li> Han Solo </li>
+    <li> Rogue One </li>
+    <li> A New Hope </li>
+    <li>  Star Wars Christmas Special </li>
+    <li> The Empire Strikes Back </li>
+    <li> Return of the Jedi </li>
+    <li> <b> The Resistance </b> </li>
+    <li> The Force Awakens </li>
+    <li> The Last Jedi </li>
+    <li> The Rise of Skywalker </li>
+          </ol>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p> <a name="#StarWarsWebsite"> Here is your link to the </a> </li>
+<br>
+<a href=https://www.starwars.com/ >
+Official Star Wars Website </a>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JamesHanyuSmith/myveryfirstprojectever/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</body>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+</html>
