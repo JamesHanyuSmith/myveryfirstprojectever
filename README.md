@@ -1,14 +1,23 @@
 
 <head>
-<h1> <u> A list of Star Wars Films </u> </h1>
-</head> 
+
+<title>MyVeryFirstProjectEver</title>
+
 
 
 <style>
-img {max-width: 100%;height: auto;}
+     type="text/css"
+     h1={color,blue}
+     img {max-width: 100%;height: auto;}
+
+
 </style>
 
+
+</head>
 <body> 
+<h1> <u> A list of Star Wars Films </u> </h1>
+ 
 
 <img src="https://user-images.githubusercontent.com/65478779/82161949-23037b80-985e-11ea-8ab7-590359d74554.jpeg"/>
 
