@@ -81,6 +81,6 @@ Here is your link to the <a href="https://www.starwars.com/">Official Star Wars 
 </p>
 
 
-<head>
+<footer>
 <small> Copyright &copy; 2020, ForceFedStudio </small>
-</head> 
+</footer> 
