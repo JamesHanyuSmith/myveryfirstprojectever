@@ -48,7 +48,7 @@ img {max-width: 100%;height: auto;}
 
 <ul>
     <li> <b>Star Wars: The Clone Wars  </b> </li>
-    <li>  <b> Star Wars: Rebels </b> </li>
+    <li> <b> Star Wars: Rebels </b> </li>
     <li> Han Solo </li>
     <li> Rogue One </li>
     <li> <b> Star Wars: The Resistance </b> </li>
@@ -79,3 +79,8 @@ img {max-width: 100%;height: auto;}
 <p>
 Here is your link to the <a href="https://www.starwars.com/">Official Star Wars Website </a>
 </p>
+
+
+<head>
+<small> Copyright &copy; 2020, ForceFedStudio </small>
+</head> 
